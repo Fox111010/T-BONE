@@ -64,8 +64,6 @@ echo -e -n "${verde}
 █═════════════════════════════════════════════════════════█
 █ [${blanco}9${verde}] ${blanco}Crédito    ${verde}┃ [${blanco}18${verde}] ${blanco}Curp         ${verde}┃ [${blanco}27${verde}] ${blanco}Multas        ${verde}█
 └═════════════════════════════════════════════════════════┘
-┃
-└═>>> "${blanco}
 read -r Opcion_DoxWeb
 
 [ "$Opcion_DoxWeb" == "1" ]||[ "$Opcion_DoxWeb" == "2" ]||[ "$Opcion_DoxWeb" == "3" ]||[ "$Opcion_DoxWeb" == "4" ]||[ "$Opcion_DoxWeb" == "5" ]||[ "$Opcion_DoxWeb" == "6" ]||[ "$Opcion_DoxWeb" == "7" ]||[ "$Opcion_DoxWeb" == "8" ]||[ "$Opcion_DoxWeb" == "9" ]||[ "$Opcion_DoxWeb" == "10" ]||[ "$Opcion_DoxWeb" == "11" ]||[ "$Opcion_DoxWeb" == "12" ]||[ "$Opcion_DoxWeb" == "13" ]||[ "$Opcion_DoxWeb" == "14" ]||[ "$Opcion_DoxWeb" == "15" ]||[ "$Opcion_DoxWeb" == "16" ]||[ "$Opcion_DoxWeb" == "17" ]||[ "$Opcion_DoxWeb" == "18" ]||[ "$Opcion_DoxWeb" == "19" ]||[ "$Opcion_DoxWeb" == "20" ]||[ "$Opcion_DoxWeb" == "21" ]||[ "$Opcion_DoxWeb" == "22" ]||[ "$Opcion_DoxWeb" == "23" ]||[ "$Opcion_DoxWeb" == "24" ]||[ "$Opcion_DoxWeb" == "25" ]||[ "$Opcion_DoxWeb" == "26" ]||[ "$Opcion_DoxWeb" == "27" ] && break
